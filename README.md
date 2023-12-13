@@ -4,7 +4,7 @@
 <a href="" ><img src="https://img.shields.io/badge/HOME-PR-blue.svg"></a>
 <a href="https://indtlab.github.io/projects/WRD-Net" ><img src="https://img.shields.io/badge/HOME-Paper-important.svg"></a>
 <a href="" ><img src="https://img.shields.io/badge/PDF-Paper-blueviolet.svg"></a>
-<a href="https://drive.google.com/file/d/185YE6WUfPXeQOEby6u8giO5h97xtx72h/view?usp=drive_link" ><img src="https://img.shields.io/badge/-WeightsFiles-blue.svg"></a>
+<a href="https://indtlab.github.io/projects/WRD-Net" ><img src="https://img.shields.io/badge/-WeightsFiles-blue.svg"></a>
 </p>
 
 # Architecture
