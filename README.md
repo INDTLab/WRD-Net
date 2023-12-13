@@ -35,7 +35,7 @@ You can use command like this:
 ```copy
 python train.py
 ```
-You can also download th pre-trained models on the WRSD: <a href="">GoogleLink</a> or <a href="https://pan.baidu.com/s/1ZOg3o7DXqRnzMVOf6WQuEQ?pwd=adzl ">BaiduLink</a>  with code adzl, and then use command like this:  
+You can also download th pre-trained models on the WRSD: <a href="https://drive.google.com/file/d/1FCx4BShJsBLxDu9w4kwTBjKjdXWMFgNb/view?usp=drive_link">GoogleLink</a> or <a href="https://pan.baidu.com/s/1ZOg3o7DXqRnzMVOf6WQuEQ?pwd=adzl ">BaiduLink</a>  with code adzl, and then use command like this:  
 ```copy
 python test.py
 ```
