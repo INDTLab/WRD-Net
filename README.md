@@ -14,11 +14,11 @@
 ### Installation
 1. Create the environment from the `environment.yml` file:   
    ```copy
-   conda env create -f environment.yml
+   conda env create -f environment.yaml
    ```     
 2. Activate the new environment:  
    ```copy
-   conda activate py37
+   conda activate base
    ```    
 3. Verify that the new environment was installed correctly:  
     ```copy
@@ -28,13 +28,23 @@
 ### Configuration
 
 ### Data Sets
-Download data sets : <a href="https://drive.google.com/file/d/1D00quOYefmW_VoBnJVNjkezOa2w-aUWl/view?usp=drive_link">GoogleLink</a> or <a href="https://pan.baidu.com/s/1jmkR3__ONSWmivjZj46nHw?pwd=bl3a">BaiduLink</a> with code `bl3a`      
+Download Water Reflection Scene Data Set(WRSD) : <a href="https://drive.google.com/file/d/1D00quOYefmW_VoBnJVNjkezOa2w-aUWl/view?usp=drive_link">GoogleLink</a> or <a href="https://pan.baidu.com/s/1G8E_m03HXL2M6IszvoDLUw?pwd=6bmg ">BaiduLink</a> with code `6bmg`      
 
-The data sets were annotated in VOC formate and can be converted into the format used in this repo by `voc.py` as:  
+#### Train and Test
+You can use command like this:  
 ```copy
-python voc.py
+python train.py
+```
+You can also download th pre-trained models on the WRSD: <a href="">GoogleLink</a> or <a href="https://pan.baidu.com/s/1ZOg3o7DXqRnzMVOf6WQuEQ?pwd=adzl ">BaiduLink</a>  with code adzl, and then use command like this:  
+```copy
+python test.py
 ```
 
+#### Calculate TP Rate
+You can use command like this:
+```copy
+python evaluate.py
+```
 # Result
 
 # Citation
