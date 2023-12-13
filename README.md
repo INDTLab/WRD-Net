@@ -30,7 +30,7 @@
 ### Data Sets
 Download Water Reflection Scene Data Set(WRSD) : <a href="https://drive.google.com/file/d/1D00quOYefmW_VoBnJVNjkezOa2w-aUWl/view?usp=drive_link">GoogleLink</a> or <a href="https://pan.baidu.com/s/1G8E_m03HXL2M6IszvoDLUw?pwd=6bmg ">BaiduLink</a> with code `6bmg`      
 
-###Train and Test
+### Train and Test
 You can use command like this:  
 ```copy
 python train.py
@@ -40,7 +40,7 @@ You can also download th pre-trained models on the WRSD: <a href="">GoogleLink</
 python test.py
 ```
 
-#### Calculate TP Rate
+### Calculate TP Rate
 You can use command like this:
 ```copy
 python evaluate.py
