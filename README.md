@@ -12,7 +12,7 @@
 
 # Usage
 ### Installation
-1. Create the environment from the `environment.yml` file:   
+1. Create the environment from the `environment.yaml` file:   
    ```copy
    conda env create -f environment.yaml
    ```     
