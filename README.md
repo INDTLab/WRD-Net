@@ -47,7 +47,7 @@ python evaluate.py
 ```
 # Results
 
-<div align=center><img src="imgs/results2.png" width=50%></div>  
-<div align=center><img src="imgs/results.png" width=50%></div>  
+<div align=center><img src="imgs/results2.png" width=80%></div>  
+<div align=center><img src="imgs/results.png" width=80%></div>  
 
 # Citation
