@@ -41,10 +41,9 @@ python test.py
 ```
 
 ### Calculate TP Rate
-You can use command like this:
-```copy
-python evaluate.py
-```
+You can run evaluate.ipynb in Jupyter Notebook to calculate the TP Rate.
+
+
 # Results
 
 <div align=center><img src="imgs/results2.png" width=60%></div>  
