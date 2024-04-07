@@ -1,9 +1,9 @@
 ![image](https://github.com/INDTLab/WRD-Net/assets/68736737/5c8e2fb9-df5e-433b-90d0-14fdc2f1ca37)
 
 <p align="center"> 
-<a href="" ><img src="https://img.shields.io/badge/HOME-PR-blue.svg"></a>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320324002188" ><img src="https://img.shields.io/badge/HOME-PR-blue.svg"></a>
 <a href="https://indtlab.github.io/projects/WRD-Net" ><img src="https://img.shields.io/badge/HOME-Paper-important.svg"></a>
-<a href="" ><img src="https://img.shields.io/badge/PDF-Paper-blueviolet.svg"></a>
+<a href="https://www.researchgate.net/profile/Xinghui-Dong-3/publication/379446898_WRD-Net_Water_Reflection_Detection_Using_A_Parallel_Attention_Transformer/links/660a1fc2f5a5de0a9ff11385/WRD-Net-Water-Reflection-Detection-Using-A-Parallel-Attention-Transformer.pdf" ><img src="https://img.shields.io/badge/PDF-Paper-blueviolet.svg"></a>
 <a href="https://indtlab.github.io/projects/WRD-Net" ><img src="https://img.shields.io/badge/-WeightsFiles-blue.svg"></a>
 </p>
 
