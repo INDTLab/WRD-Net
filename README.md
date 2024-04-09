@@ -55,6 +55,7 @@ You can run evaluate.ipynb in Jupyter Notebook to calculate the TP Rate.
   title={WRD-Net: Water Reflection Detection using a parallel attention transformer},
   author={Dong, Huijie and Qi, Hao and Zhou, Huiyu and Dong, Junyu and Dong, Xinghui},
   journal={Pattern Recognition},
+  volume = {152},
   pages={110467},
   year={2024},
   publisher={Elsevier}
